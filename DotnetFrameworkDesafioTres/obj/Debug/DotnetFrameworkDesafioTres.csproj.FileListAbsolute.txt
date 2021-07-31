@@ -1,0 +1,7 @@
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\bin\Debug\DotnetFrameworkDesafioTres.exe.config
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\bin\Debug\DotnetFrameworkDesafioTres.exe
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\bin\Debug\DotnetFrameworkDesafioTres.pdb
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\obj\Debug\DotnetFrameworkDesafioTres.csproj.AssemblyReference.cache
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\obj\Debug\DotnetFrameworkDesafioTres.csproj.CoreCompileInputs.cache
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\obj\Debug\DotnetFrameworkDesafioTres.exe
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioTres\DotnetFrameworkDesafioTres\obj\Debug\DotnetFrameworkDesafioTres.pdb
